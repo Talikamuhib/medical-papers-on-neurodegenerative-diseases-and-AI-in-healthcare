@@ -76,7 +76,7 @@ Ready to contribute? We welcome all forms of collaboration—whether it’s brai
 ---
 
 ## Contact & Slack Group
-- **Email**: [example@neuroearlydetect.org](mailto:example@neuroearlydetect.org)  
+- **Email**: [contribution@neuroearlydetect.com](mailto:example@neuroearlydetect.com)  
 - **Private Slack**: Email or message us your details, and we’ll send you an invite link.  
 - **Twitter**: [@NeuroEarlyDetect](#) (for quick project updates)
 
