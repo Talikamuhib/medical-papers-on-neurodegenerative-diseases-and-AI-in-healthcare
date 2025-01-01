@@ -1,4 +1,6 @@
+
 # medical-papers-on-neurodegenerative-diseases-and-AI-in-healthcare
+
 | Title                                                                                   | Authors                                     | Published In                   | Year | Abstract                                                                                                                | Link                                                                                   |
 |-----------------------------------------------------------------------------------------|---------------------------------------------|---------------------------------|------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Advancements of Deep Learning in Medical Imaging for Neurodegenerative Diseases         | Loveleen Gaur, Patrick Siarry, Ajith Abraham, Oscar Castillo | Frontiers in Neuroscience      | 2024 | This editorial discusses the integration of deep learning techniques in medical imaging to enhance the diagnosis and understanding of neurodegenerative diseases such as Alzheimer's and Parkinson's. | [Read Full Paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1361055/full) |
